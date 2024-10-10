@@ -97,4 +97,8 @@ a:-webkit-any-link {
   .accordionDetails li {
     max-width: 240px;
   }
+  .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+  white-space: unset !important;
+  width: 250px;
+}
 }
