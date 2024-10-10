@@ -20,7 +20,8 @@
   background-color: #0f1d89 !important;
 }
 .css-1km1ehz{
-  text-decoration: none;
+  text-decoration: none !important;
+  color: white;
 }
 .css-10hburv-MuiTypography-root {
   font-size: 24px !important;
