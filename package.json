@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://github.com/max-maximovv/MinPros",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
@@ -20,6 +21,8 @@
     "yup": "^1.4.0"
   },
   "scripts": {
+    "predeploy": "сборка под управлением npm",
+    "deploy": "сборка gh-pages -d"
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
