@@ -26,9 +26,9 @@
   font-weight: 600;
   margin-bottom: 40px;
 }
-.about-btn a {
-  text-decoration: none;
-  color: #0f1d89;
+a:-webkit-any-link {
+    color: #0f1d89 !important;
+    text-decoration: none !important;
 }
 .about-btn:hover {
   transform: scale(1.02);
