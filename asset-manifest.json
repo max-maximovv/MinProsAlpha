@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/max-maximovv/MinProsAlpha/static/css/main.5611376b.css",
+    "main.js": "/max-maximovv/MinProsAlpha/static/js/main.e20bd35f.js",
+    "static/media/bg-white.png": "/max-maximovv/MinProsAlpha/static/media/bg-white.9a1905b05f325da6cd42.png",
+    "index.html": "/max-maximovv/MinProsAlpha/index.html",
+    "main.5611376b.css.map": "/max-maximovv/MinProsAlpha/static/css/main.5611376b.css.map",
+    "main.e20bd35f.js.map": "/max-maximovv/MinProsAlpha/static/js/main.e20bd35f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5611376b.css",
+    "static/js/main.e20bd35f.js"
+  ]
+}
