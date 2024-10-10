@@ -41,6 +41,9 @@ a:-webkit-any-link {
 .css-i4bv87-MuiSvgIcon-root {
   fill: white !important;
 }
+.css-1km1ehz{
+ white-space: unset !important;
+}
 #panel1-header {
   background-color: #0f1d89;
   color: white;
