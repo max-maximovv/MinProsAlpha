@@ -26,7 +26,7 @@
   font-weight: 600;
   margin-bottom: 40px;
 }
-a:-webkit-any-link {
+.about-btn a:-webkit-any-link {
     color: #0f1d89 !important;
     text-decoration: none !important;
 }
