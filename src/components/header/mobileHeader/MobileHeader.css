@@ -104,4 +104,7 @@ a:-webkit-any-link {
   white-space: unset !important;
   width: 250px;
 }
+  .css-1ujsas3{
+    text-transform: none;
+  }
 }
