@@ -6,6 +6,10 @@
   justify-content: center;
   align-items: center;
 }
+a:-webkit-any-link {
+    color: white !important;
+    text-decoration: none !important;
+}
 .links-box {
   color: white;
   background-color: #0f1d89 !important;
@@ -18,10 +22,6 @@
 }
 .css-pwxzbm{
   background-color: #0f1d89 !important;
-}
-.css-1km1ehz{
-  text-decoration: none !important;
-  color: white !important;
 }
 .css-10hburv-MuiTypography-root {
   font-size: 24px !important;
