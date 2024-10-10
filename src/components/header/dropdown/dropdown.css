@@ -1,0 +1,16 @@
+.dropdown {
+  margin-top: 3px;
+}
+.dropdown button {
+  font-size: 15px;
+  color: white;
+  text-align: start;
+}
+.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+  background-color: #0f1d89 !important;
+}
+.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper a {
+  text-decoration: none;
+  color: white;
+  font-size: 18.5px;
+}

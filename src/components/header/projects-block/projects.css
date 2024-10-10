@@ -1,0 +1,28 @@
+.manage-projects ul {
+  padding-left: 0;
+}
+.manage-projects h3 {
+  text-align: center;
+}
+.manage-projects h5 {
+  font-weight: 400;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.projects-card {
+  list-style: none;
+}
+.projects-card div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 15px 0 15px;
+}
+.projects-card img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.projects-card :hover {
+  background-color: rgb(23, 79, 233);
+}
