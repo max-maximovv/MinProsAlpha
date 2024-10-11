@@ -105,6 +105,6 @@ a:-webkit-any-link {
   width: 250px;
 }
   .css-1ujsas3{
-    text-transform: none;
+    text-transform: none !important;
   }
 }
